@@ -1,0 +1,16 @@
+C:\Users\lenovo1\Desktop\closingNumbers\bin\Debug\net5.0\closingNumbers.exe
+C:\Users\lenovo1\Desktop\closingNumbers\bin\Debug\net5.0\closingNumbers.deps.json
+C:\Users\lenovo1\Desktop\closingNumbers\bin\Debug\net5.0\closingNumbers.runtimeconfig.json
+C:\Users\lenovo1\Desktop\closingNumbers\bin\Debug\net5.0\closingNumbers.runtimeconfig.dev.json
+C:\Users\lenovo1\Desktop\closingNumbers\bin\Debug\net5.0\closingNumbers.dll
+C:\Users\lenovo1\Desktop\closingNumbers\bin\Debug\net5.0\ref\closingNumbers.dll
+C:\Users\lenovo1\Desktop\closingNumbers\bin\Debug\net5.0\closingNumbers.pdb
+C:\Users\lenovo1\Desktop\closingNumbers\obj\Debug\net5.0\closingNumbers.csprojAssemblyReference.cache
+C:\Users\lenovo1\Desktop\closingNumbers\obj\Debug\net5.0\closingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\Desktop\closingNumbers\obj\Debug\net5.0\closingNumbers.AssemblyInfoInputs.cache
+C:\Users\lenovo1\Desktop\closingNumbers\obj\Debug\net5.0\closingNumbers.AssemblyInfo.cs
+C:\Users\lenovo1\Desktop\closingNumbers\obj\Debug\net5.0\closingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\Desktop\closingNumbers\obj\Debug\net5.0\closingNumbers.dll
+C:\Users\lenovo1\Desktop\closingNumbers\obj\Debug\net5.0\ref\closingNumbers.dll
+C:\Users\lenovo1\Desktop\closingNumbers\obj\Debug\net5.0\closingNumbers.pdb
+C:\Users\lenovo1\Desktop\closingNumbers\obj\Debug\net5.0\closingNumbers.genruntimeconfig.cache
